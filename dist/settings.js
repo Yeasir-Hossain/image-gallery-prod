@@ -7,7 +7,7 @@ exports.default = void 0;
 const settings = {
   'port': process.env.PORT || 4000,
   'domain': 'https://image-gallery-backend-5udk.onrender.com/api/',
-  'origin': ['http://localhost:5173', 'https://image-gallery-phi-flame.vercel.app/'],
+  'origin': ['http://localhost:5173', 'https://image-gallery-bucy.onrender.com/'],
   'useHTTP2': false,
   'SMTP_HOST': '',
   'SMTP_PORT': '',
